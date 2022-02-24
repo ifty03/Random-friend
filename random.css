@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@500&family=Lobster+Two:ital@1&family=Poppins:wght@500&family=Roboto:wght@500&family=Rokkitt&display=swap");
+
+body {
+  font-family: "Satisfy", cursive;
+}
+.title {
+  color: brown;
+  text-align: center;
+}
+.title:hover {
+  text-decoration: underline;
+  font-family: "Poppins", sans-serif;
+}
+.stldiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  width: 12%;
+  border-radius: 50%;
+  border: 5px solid brown;
+}
+.btn {
+  padding: 6px 9px;
+  margin-top: 10px;
+  background-color: brown;
+  color: whitesmoke;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+}
+.tt {
+  color: brown;
+}
